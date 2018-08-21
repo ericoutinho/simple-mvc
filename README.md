@@ -1,2 +1,2 @@
 # simple-mvc
-MVC simples para uso genérico.
+Um MVC simples em PHP para uso genérico.
